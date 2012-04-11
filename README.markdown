@@ -5,7 +5,7 @@ Questa repo contiene tutta la documentazione consegnata per l'esame di Ingegneri
 Il capitolato in questione è C03. Maggiori informazioni reperibili qui: http://www.math.unipd.it/~tullio/IS-1/2011/Progetto/C3.pdf
 
 #Gruppo
-I membri sono:
+I membri:
 
 - Giacomo Lorigiola
 - Antonio Pretto
