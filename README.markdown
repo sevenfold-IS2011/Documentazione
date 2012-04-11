@@ -18,4 +18,4 @@ I membri:
 
 I lavori sono cominciati a fine Novembre 2011 e ufficialmente chiusi il 5 Aprile 2012. *Tanti, tantissimi commit e poche pochissime domeniche* .. 
 
-**Non ci resta che augurarvi buon Lavoro!**
+**Non ci resta che augurarvi buon lavoro!**
